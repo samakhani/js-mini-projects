@@ -1,0 +1,5 @@
+const number = 3;
+function powerThree(num) {
+    return num * num * num;
+}
+console.log(powerThree(number));

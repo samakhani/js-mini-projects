@@ -6,3 +6,4 @@ function evenOdOdd(number) {
     }
 }
 const getNumber = evenOdOdd(20);
+console.log(getNumber);
